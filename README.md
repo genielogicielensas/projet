@@ -21,14 +21,14 @@ Equipe de travail : </br>
   <tr>
     <td>1</td>
     <td>En tant que développeur je souhaite m’inscrire à la plateforme en utilisant mon e-mail ou mon numéro de téléphone et choisir un nom d’utilisateur et mon mot de passe .</td> 
-    <td>6</td> 
-    <td>5</td>
+    <td>8</td> 
+    <td>1</td>
   </tr>
   <tr>
     <td>2</td>
     <td>En tant que développeur je souhaite m’authentifier/ quitter la plateforme en utilisant mon e-mail numéro </td> 
-    <td>4</td> 
-    <td>5</td>
+    <td>5</td> 
+    <td>1</td>
   </tr>
   <tr>
     <td>3</td>
