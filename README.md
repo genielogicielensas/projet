@@ -10,7 +10,7 @@ Equipe de travail : </br>
 <h1>Vision</h1>
 <p>Offrir une solution de gestion de projets complète implementant l'outil <b>Scrum</b></p>
 
-<h1>Backlog et planification des sprints : </h1> 
+<h1>Product Backlog</h1> 
 <table>
   <tr>
     <th></th>
@@ -93,43 +93,7 @@ Equipe de travail : </br>
 </table>
 
 
-<h1>Répartition des taches</h1>
+<h1>Sprint BackLog</h1>
 
 ![33302978_10213803672318704_480402670562050048_n](https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg)
-
-<!--h1>Facturation</h1>
-<table>
-  <tr>
-    <th></th>
-    <th>Etude et analyse</th>
-    <th>Conception</th>
-    <th>Base de données</th>
-    <th>Développement</th>
-    <th>Design</th>
-    <th>Test</th> 
-  </tr>
-  <tr>
-    <td><b>Travail en jour/homme<b></td>
-    <td></td> 
-    <td></td> 
-    <td></td> 
-    <td></td> 
-    <td></td>
-    <td></td> 
-  </tr>
-    <tr>
-    <td><b>Cout<b></td>
-    <td></td> 
-    <td></td> 
-    <td></td> 
-    <td></td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>Cout Total<b></td>
-    <td colspan="6"><h4><center><b></b></center></h4></td> 
-  </tr>
-</table-->
-
 
