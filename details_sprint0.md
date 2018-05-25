@@ -16,7 +16,13 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Developpement de la base du framework</td> 
+    <td>Developpement de la base du framework (liaison avec la base de données + creation de la logique métier)</td> 
+    <td>Yousfi Saad</td> 
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>tester pour une première fois l'application E2E test</td> 
     <td>Yousfi Saad</td> 
     <td>Done</td>
   </tr>
