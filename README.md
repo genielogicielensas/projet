@@ -94,8 +94,10 @@ Equipe de travail : </br>
 
 
 <h1>Sprint BackLog</h1>
-
-![33302978_10213803672318704_480402670562050048_n](https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg">
+</p>
+![33302978_10213803672318704_480402670562050048_n](https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg?style=centerme)
 ![33442883_10213808017307326_3067947173061591040_n](https://user-images.githubusercontent.com/28570109/40557480-8db9e510-6050-11e8-8086-5f27da7f2a00.jpg)
 ![33647219_10213808209792138_982987511473111040_n](https://user-images.githubusercontent.com/28570109/40557499-9900bbf6-6050-11e8-8008-6449ab1f2ed0.jpg)
 
