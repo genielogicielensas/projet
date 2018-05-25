@@ -1,5 +1,7 @@
+![logo](https://user-images.githubusercontent.com/28570109/40561792-c7b64b38-605e-11e8-8a1a-bfbaa1532c19.jpg)
+
 <b>Scrum Master : </b> Mr.Baraka Kamal </br>
-<b>Product owner : </b> l'organisation </br>
+<b>Product owner : </b> l'organisation  </br>
 Equipe de travail : </br>
          <ul>
             <li>Alaa Khouloud</li>
@@ -94,12 +96,12 @@ Equipe de travail : </br>
 
 
 <h1>Sprint BackLog</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28570109/40557480-8db9e510-6050-11e8-8086-5f27da7f2a00.jpg">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28570109/40557499-9900bbf6-6050-11e8-8008-6449ab1f2ed0.jpg">
-</p>
+<h3>voir l'ensemble des fichiers : </h3>
+<ul>
+  <li>details_sprint0.md</li>
+  <li>details_sprint1.md</li>
+  <li>details_sprint2.md</li>
+  <li>details_sprint3.md</li>
+</ul>            
+<h1>Conception de lq bqse de données</h1> 
+<h3>voir le fichier 'UML.png' </h3>
