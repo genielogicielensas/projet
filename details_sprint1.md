@@ -11,20 +11,23 @@
   <tr>
     <td>1</td>
     <td>En tant que développeur je souhaite m’inscrire à la plateforme en utilisant mon e-mail ou mon numéro de téléphone et choisir un nom d’utilisateur et mon mot de passe .</td> 
-    <td>8</td> 
-    <td>1</td>
+    <td>1</td> 
+    <td>8</td>
+    <td>En Cours</td>
   </tr>
   <tr>
     <td>2</td>
     <td>En tant que développeur je souhaite m’authentifier/ quitter la plateforme en utilisant mon e-mail numéro </td> 
     <td>5</td> 
     <td>1</td>
+    <td>En Cours</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>En tant que PO je souhaite avoir l’accès à tous les projets et modifier la priorité.</td> 
+    <td>En tant que développeur je souhaite créer un projet en précisant le nom la description la visibilité la durée</td> 
     <td>5</td> 
     <td>2</td>
+    <td>En Cours</td>
   </tr>
 </table>
 
