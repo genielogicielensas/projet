@@ -29,6 +29,20 @@
     <td>2</td>
     <td>En Cours</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>En tant que développeur je souhaite inviter des membres à travailler sur un projet.</td> 
+    <td>3</td> 
+    <td>4</td>
+    <td>En Cours</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>en tant que développeur je souhaite avoir l’accès à la liste des personnes ayant accès au projet ainsi que leur rôle.</td> 
+    <td>2</td> 
+    <td>3</td>
+    <td>En Cours</td>
+  </tr>
 </table>
 
 <h3>Répartition des taches</3>
@@ -42,26 +56,14 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Conception de la base de données(création des tables necessaires)</td> 
+    <td>Tache 1 - 2 - 3 du mini-backlog</td> 
     <td>Alaa Khouloud</td> 
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Developpement de la base du framework</td> 
-    <td>Yousfi Saad</td> 
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Réalisation design (FrontEnd) pour la page Login</td> 
-    <td>Elain Ilyass</td> 
     <td>En cours</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>Réalisation design (FrontEnd) pour la page Sign In</td> 
-    <td>Mejdoub Hasnaa</td> 
+    <td>2</td>
+    <td>Tache 4 - 5 du mini-backlog</td> 
+    <td>Yousfi Saad</td> 
     <td>En cours</td>
   </tr>
 </table>
