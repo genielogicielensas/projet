@@ -32,6 +32,7 @@
 </table>
 
 <h3>Répartition des taches</3>
+<hr>
 <table>
   <tr>
     <th>Numéro de la tache</th> 
