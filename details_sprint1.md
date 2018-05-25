@@ -56,13 +56,13 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Tache 1 - 2 - 3 du mini-backlog</td> 
+    <td>Tache 1 - 2 - 3 du mini-backlog + E2E test</td> 
     <td>Alaa Khouloud</td> 
     <td>En cours</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Tache 4 - 5 du mini-backlog</td> 
+    <td>Tache 4 - 5 du mini-backlog + E2E test</td> 
     <td>Yousfi Saad</td> 
     <td>En cours</td>
   </tr>
