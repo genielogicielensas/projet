@@ -30,13 +30,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>En tant que developpeur je souhaite ajouter/modifier/supprimer une US au miniBacklog</td> 
-    <td>2</td> 
-    <td>3</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td>5</td>
     <td>En tant que developpeur je souhaite avoir la possibilité de consulter les taches où je ne suis pas intervenant</td> 
     <td>2</td> 
