@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>tester pour une première fois l'application E2E test</td> 
+    <td>tester pour une première fois l'application (test d'integration)</td> 
     <td>Yousfi Saad</td> 
     <td>Done</td>
   </tr>
