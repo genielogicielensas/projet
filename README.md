@@ -92,6 +92,11 @@ Equipe de travail : </br>
   </tr>
 </table>
 
+
+<h1>Répartition des taches</h1>
+
+![33302978_10213803672318704_480402670562050048_n](https://user-images.githubusercontent.com/28570109/40538728-bee1f210-6012-11e8-97b2-59cdcbe0c601.jpg)
+
 <!--h1>Facturation</h1>
 <table>
   <tr>
@@ -126,4 +131,5 @@ Equipe de travail : </br>
     <td colspan="6"><h4><center><b></b></center></h4></td> 
   </tr>
 </table-->
+
 
