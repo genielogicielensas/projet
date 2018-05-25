@@ -50,7 +50,7 @@
     <td>2</td>
     <td>Developpement de la base du framework</td> 
     <td>Yousfi Saad</td> 
-    <td>En cours</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>3</td>
