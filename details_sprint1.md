@@ -67,7 +67,7 @@
     <td>En cours</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>1</td>
     <td>Tache 1 - 2 - 3  du mini-backlog + E2E test</td> 
     <td>Mejdoub Hasnaa</td> 
     <td>En cours</td>
